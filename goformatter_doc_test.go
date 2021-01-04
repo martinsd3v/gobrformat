@@ -1,4 +1,4 @@
-package formatter
+package gobrformat
 
 import (
 	"testing"
